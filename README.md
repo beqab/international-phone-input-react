@@ -1,7 +1,7 @@
 React Simple Phone Input
 ==========
 
-A simple and customizable react phone number dropdown component. It can mix up with your designed theme and give a fluent vibe able dropdown area in your next project.
+A simple and customizable react phone number dropdown component. with country flags and dialCodes.
 
 
 
@@ -26,7 +26,7 @@ import { PhoneInput } from "international-phone-input-react";
   phoneNumber={phoneNumber} setPhoneNumber={phoneNumber}
 />
 ```
-#### [See Demo](https://international-phone-input-react.vercel.app/)
+#### [See Demo](https://international-phone-input-react.onrender.com/)
 
 ## Options
 <table width="100%">
@@ -243,4 +243,4 @@ If you face any issues, missing data or wrong data about country, you are welcom
 ## Stay in touch
 
 - Author - [beka badagadze]
-- Github - [https://github.com/beqab](https://github.com/beqab)
+- Github - [https://github.com/beqab/international-phone-input-react](https://github.com/beqab/international-phone-input-react)
