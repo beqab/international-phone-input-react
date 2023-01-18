@@ -20,7 +20,7 @@ export const Primary = (args) => {
   );
 };
 
-export const onlySpecificCountries = (args) => {
+export const OnlySpecificCountries = (args) => {
   const [phone, setPhone] = useState("");
   return (
     <div style={{ maxWidth: "500px" }}>
@@ -34,7 +34,7 @@ export const onlySpecificCountries = (args) => {
   );
 };
 
-export const withError = (args) => {
+export const WithError = (args) => {
   const [phone, setPhone] = useState("");
   return (
     <div style={{ maxWidth: "500px" }}>
